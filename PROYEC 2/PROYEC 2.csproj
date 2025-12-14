@@ -90,6 +90,9 @@
     <EmbeddedResource Include="Form4.resx">
       <DependentUpon>Form4.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -121,6 +124,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\fondo configuración.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inconomango.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inconomango1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inconomango2.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

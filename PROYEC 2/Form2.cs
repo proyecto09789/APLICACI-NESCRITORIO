@@ -16,5 +16,17 @@ namespace PROYEC_2
             ventana.Show();
             this.Hide();  // Oculta el formulario actual
         }
+
+     
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Form5 ventana = new Form5();
+            ventana.Show();
+            this.Hide();  // Oculta el formulario actual
+
+        }
+
+        
     }
 }

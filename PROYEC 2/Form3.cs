@@ -57,7 +57,7 @@ namespace PROYEC_2
 
         private void Cerrarconf_Click(object sender, EventArgs e)
         {
-            Form1 ventana = new Form1();
+            Pestaña2m ventana = new Pestaña2m();
             ventana.Show();
             this.Hide();  // Oculta el formulario actual
         }

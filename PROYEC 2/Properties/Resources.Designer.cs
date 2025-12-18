@@ -63,6 +63,36 @@ namespace PROYEC_2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap color_1 {
+            get {
+                object obj = ResourceManager.GetObject("color 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap color_2 {
+            get {
+                object obj = ResourceManager.GetObject("color 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap color_3 {
+            get {
+                object obj = ResourceManager.GetObject("color 3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fondo_configuración {
             get {
                 object obj = ResourceManager.GetObject("fondo configuración", resourceCulture);
@@ -131,9 +161,29 @@ namespace PROYEC_2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Palette {
+            get {
+                object obj = ResourceManager.GetObject("Palette", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WhatsApp_Image_2025_12_06_at_6_52_23_PM {
             get {
                 object obj = ResourceManager.GetObject("WhatsApp Image 2025-12-06 at 6.52.23 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2025_12_14_at_7_22_21_PM__1_ {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2025-12-14 at 7.22.21 PM (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

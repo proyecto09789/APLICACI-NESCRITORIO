@@ -1,6 +1,6 @@
 ﻿namespace PROYEC_2
 {
-    partial class Form5
+    partial class pestaña3m
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form5
+            // pestaña3m
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1027, 526);
-            this.Name = "Form5";
-            this.Text = "Form5";
+            this.BackgroundImage = global::PROYEC_2.Properties.Resources.color_2;
+            this.ClientSize = new System.Drawing.Size(1038, 519);
+            this.Name = "pestaña3m";
+            this.Text = "pestaña3m";
             this.ResumeLayout(false);
 
         }
